@@ -1,4 +1,4 @@
-# CS115_Words
+# Words.cpp
 Assigns a numeric value to each letter in the english alphabet. 
 
 Prompts user to enter a number value.
